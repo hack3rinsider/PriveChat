@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362114109265",
+    "project_id": "privechat-50d7f",
+    "storage_bucket": "privechat-50d7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362114109265:android:4ae5ba3c7c5b0fb9ed0d70",
+        "android_client_info": {
+          "package_name": "com.stardust.privechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362114109265-kgnqocs70lk7h5047rivp416mjhn6eis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-C4qR1u4uQ5ZXbYQB6Cv4AU7wK4KUiNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362114109265-kgnqocs70lk7h5047rivp416mjhn6eis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
